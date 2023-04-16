@@ -1,0 +1,7 @@
+.disabled {
+    /* set opacity to 0.5 to make it appear disabled */
+    visibility: hidden;
+  
+    pointer-events: none; /* disable pointer events to prevent interactions */
+  }
+
