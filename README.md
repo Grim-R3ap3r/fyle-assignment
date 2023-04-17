@@ -20,8 +20,6 @@
 |  ├── app.component.scss
 |  ├── app.component.spec.ts
 |  ├── app.component.ts
-|  ├── app.config.ts
-|  ├── app.constant.ts
 |  ├── app.module.ts
 |  ├── core
 |  |  ├── models
