@@ -1,5 +1,5 @@
 # fyle-assignment
->  I Have Completed all the tasks assigned to me. Handled edege cases and maintained readibility in the code.
+>  I Have Completed all the tasks assigned to me. Handled edge cases and maintained readibility in the code.
 ### Link to the deployed website: [library-website](https://rathin-fyle.netlify.app/)
 ## Tasks Completed
 1. Clear Search Field
